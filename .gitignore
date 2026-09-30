@@ -1,0 +1,8 @@
+# Results computed from participant data: never commit / share
+output/
+
+# Synthetic data and its results (regenerated with make_example_data.py)
+example_data/
+example_output/
+
+__pycache__/
